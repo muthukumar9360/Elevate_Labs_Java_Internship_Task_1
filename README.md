@@ -52,4 +52,4 @@ README.md → Project documentation
 
 Outputs:
 
-![Calculator Screenshot](Output/output1.png)
+![Calculator Screenshot](output.png)
